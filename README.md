@@ -1,1 +1,3 @@
-## Git Practice
+
+# Git Practice
+>>>>>>> feature
